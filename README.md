@@ -9,3 +9,5 @@ Last two lessons are for quick starting the data processing and machine learning
 * Lesson2: Appliances application and the business logic behind it.
 * Lesson3: Basic lessons of ML using sklearn and pandas.
 * Lesson4: Recommendation system using sklearn countVector and cosine_similarity algorithms.
+
+#### (please follow the "instructions.txt" in each lessons)
