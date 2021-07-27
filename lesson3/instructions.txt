@@ -1,0 +1,8 @@
+1. "pd_excerice.py" contains code snippets for learning pandas capabilities.
+
+    You require the "appliances_rating.csv" residing at lesson4 for executing some of the snippets. Copy "appliances_rating.csv" file in this directory.
+    
+2. "learn_ml.py" is an example of predicitive modelling. 
+    This script will create a prediction model using RandomForestRegressor aglorithm to predict wine quality.
+    
+    data set: winequality-red.csv
