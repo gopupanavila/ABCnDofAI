@@ -2,8 +2,8 @@
 ## Workshop on AI
 
 This workshop is divided into four lessons. 
-First two lessons are for creating GUI compoments and business logics corresponds to the "applicances" applicatios.
-Last two lessons are for quick starting the data processing and machine learning areas.
+First two lessons are for creating GUI compoments and business logics corresponds to the "appliances" applications.
+Last two lessons are for quick starting the data processing and machine learning fundas.
 
 * Lesson1: Snippets for basic GUI compoments and widgets.
 * Lesson2: Appliances application and the business logic behind it.
