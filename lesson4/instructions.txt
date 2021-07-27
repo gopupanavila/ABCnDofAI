@@ -1,0 +1,5 @@
+You can execute 
+  find_cosine_similar.py -  snippet for calaculating cosine simialrity
+  problem_statement2.py -   implements the recommendation system for "appliances" application
+                              (logic.py and recommend.py are dependencies of this script)
+  recommend.py - recommendation logic of appliances application
