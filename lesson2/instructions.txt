@@ -1,0 +1,2 @@
+You can execute "problem_statement.py" on terminal/command prompt.
+"logic.py" is a dependency to "problem_statement.py".
